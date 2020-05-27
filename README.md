@@ -42,6 +42,10 @@ Here, 1 is the number for the analysis you want to run (1, 2.1, 2.2, 3, 4, 5, or
 
 For 50 runs, each set takes about 6-16 hours on a current laptop.
 
+## SCRC Development
+
+Please see the [Wiki](https://github.com/ScottishCovidResponse/covid-uk/wiki) for this repository for more information on the developments to this model for SCRC usage.
+
 ### Reference
 
 [Davies NG et al. The effect of non-pharmaceutical interventions on COVID-19 cases, deaths and demand for hospital services in the UK: a modelling study. CMMID COVID-19 working group pre-print, 2020.](https://cmmid.github.io/topics/covid19/control-measures/uk-scenario-modelling.html)
